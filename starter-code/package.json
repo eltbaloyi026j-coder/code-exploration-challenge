@@ -1,0 +1,14 @@
+{
+  "name": "task-manager-cli",
+  "version": "1.0.0",
+  "description": "Task Manager CLI for AI course",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "commander": "^9.0.0",
+    "uuid": "^8.3.2"
+  }
+}
