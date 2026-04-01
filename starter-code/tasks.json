@@ -1,0 +1,17 @@
+[
+  {
+    "id": "030b7b4b-6f6b-4b52-bc00-0a7fdac5f4b9",
+    "title": "Finish AI course",
+    "description": "Complete all exercises",
+    "priority": "3",
+    "status": "in",
+    "createdAt": "2026-04-01T20:27:35.448Z",
+    "updatedAt": "2026-04-01T20:32:22.986Z",
+    "dueDate": null,
+    "completedAt": null,
+    "tags": [
+      "school",
+      "ai"
+    ]
+  }
+]
